@@ -4,9 +4,11 @@ Website:  http://myblog123.pythonanywhere.com/
 
 Welcome. This is a repository responsible for the creation of blog. It is powered with Django framework.
 
-Features-Posts timeline sorted by date related to tech.
+# Features-
 
-Accessibility-
+Posts timeline sorted by date related to tech.
+
+# Accessibility-
 
 Normal user- 
 He/she can see the posts and add new posts of his own interest and edit that post if required. 
@@ -14,7 +16,7 @@ He/she can see the posts and add new posts of his own interest and edit that pos
 Super user- 
 He/she changes the posts, add new post and change the existing post and delete it.
 
-How to contribute-
+# How to contribute-
 
 -Install git
 
