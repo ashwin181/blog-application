@@ -1,4 +1,6 @@
-Tech Blog-Website-myblog123.pythonanywhere.com
+Tech Blog-
+
+Website:  http://myblog123.pythonanywhere.com/
 
 Welcome. This is a repository responsible for the creation of blog. It is powered with Django framework.
 
